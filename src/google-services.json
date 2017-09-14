@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "706329874359",
+    "firebase_url": "https://turnosmovil-a576d.firebaseio.com",
+    "project_id": "turnosmovil-a576d",
+    "storage_bucket": "turnosmovil-a576d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706329874359:android:8d3dba8a3fb98c09",
+        "android_client_info": {
+          "package_name": "turnosmovil.sps.app.com.turnosmovilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706329874359-au7lc06akj2i06a773a0r2i39a3jjmo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XV3gYtSwsdOJkltlJL_TcubRruoCjcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706329874359:android:afec8a96b15487c4",
+        "android_client_info": {
+          "package_name": "sps.app.com.administraturnos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706329874359-ev4figq6qb8eb5hlfn2g0e14nli6lc8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sps.app.com.administraturnos",
+            "certificate_hash": "25e1d5b0c33fb55a42eb57e4285d1296b991639d"
+          }
+        },
+        {
+          "client_id": "706329874359-au7lc06akj2i06a773a0r2i39a3jjmo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8XV3gYtSwsdOJkltlJL_TcubRruoCjcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706329874359-au7lc06akj2i06a773a0r2i39a3jjmo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
